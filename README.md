@@ -1,3 +1,15 @@
-Evoman is a video game playing framework inspired on Megaman.
+# Evolutionary Algorithms
 
-A demo can be found here:  https://www.youtube.com/watch?v=ZqaMjd1E4ZI
+
+## Operators
+### Mutation Operators
+- [Non-uniform mutation](src/Mutation/__init__.py)
+- [ ] Self-adaptive mutation
+
+### Crossover Operators
+
+
+## Ref
+
+1. Introduction to Evolutionary Computing
+2. [Evolutioary Algorithms - github](https://github.com/mlagunas/evolutionary_algorithms) 

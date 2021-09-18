@@ -3,7 +3,7 @@
 
 ## Operators
 ### Mutation Operators
-- [Non-uniform mutation](src/Mutation/__init__.py)
+- [x] [Non-uniform mutation](src/Mutation/__init__.py)
 - [ ] Self-adaptive mutation
 
 ### Crossover Operators

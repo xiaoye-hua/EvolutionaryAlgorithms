@@ -5,6 +5,14 @@ This repository is based on the assignments of Evolutionary Computing at VU Amst
 About Evoman framework:
     1. Evoman is a video game playing framework inspired on Megaman.
     2. A demo can be found here: https://www.youtube.com/watch?v=ZqaMjd1E4ZI
+    
+    
+## Project Structure
+
+1. src source code for evolutionary algorithm
+2. Unittest unit test for source code
+3. evoman source code deo Evoman framework
+4. reference references for EA and Evolman framework
 
 ## Steps of Evolutionary Algorithms
 
